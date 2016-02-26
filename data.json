@@ -1,0 +1,7 @@
+[
+  {"id": "1", "contents": "あいうえお", "priority": ""},
+  {"id": "2", "contents": "かきくけこ", "priority": ""},
+  {"id": "3", "contents": "さしすせそ", "priority": "**"},
+  {"id": "4", "contents": "たちつてと", "priority": "*"},
+  {"id": "5", "contents": "なにぬねの", "priority": "*"}
+]

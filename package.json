@@ -1,0 +1,15 @@
+{
+  "name": "alloymodelstudyrestmock",
+  "version": "1.0.0",
+  "description": "API mock server for AlloyModelStudyRest app",
+  "main": "index.js",
+  "dependencies": {
+    "mocky": "^0.1.8"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umi Uyura",
+  "license": "MIT"
+}
