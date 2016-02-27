@@ -1,7 +1,7 @@
 {
-  "name": "alloymodelstudyrestmock",
+  "name": "alloymodelstudyreststub",
   "version": "1.0.0",
-  "description": "API mock server for AlloyModelStudyRest app",
+  "description": "Stub API server for AlloyModelStudyRest app",
   "main": "index.js",
   "dependencies": {
     "mocky": "^0.1.8"

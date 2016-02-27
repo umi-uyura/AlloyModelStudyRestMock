@@ -1,15 +1,15 @@
-Mock API Server for Alloy Model Study: REST API
+Stub API Server for Alloy Model Study: REST API
 ===============================================
 
-This project is a mock server for [umi-uyura/AlloyModelStudyRestApi](https://github.com/umi-uyura/AlloyModelStudyRestApi) .
+This project is a stub server for [umi-uyura/AlloyModelStudyRestApi](https://github.com/umi-uyura/AlloyModelStudyRestApi) .
 
 
 Preparation
 -----------
 
 ```
-$ git clone git@github.com:umi-uyura/AlloyModelStudyRestMock.git
-$ cd AlloyModelStudyRestMock
+$ git clone git@github.com:umi-uyura/AlloyModelStudyRestStub.git
+$ cd AlloyModelStudyRestStub
 $ npm install
 ```
 
