@@ -101,14 +101,9 @@ mocky.createServer([{
   res: function(req, res, callback) {
     var id = req.url.split('/')[2];
 
-    console.log('DELETE url = ' + req.url);
-    console.log('DELETE id = ' + id);
-
     var index = memos.findIndex(function(element, index, array) {
       return (id === element.id);
     });
-
-    console.log('DELETE index = ' + index);
 
     if (0 <= index) {
       var m = memos[index];
